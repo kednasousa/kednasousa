@@ -1,16 +1,36 @@
-### Hi there 👋
+## Bem-vindo(a) ao meu perfil 😁
 
-<!--
-**kednasousa/kednasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/kednasousa">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kednasousa&show_icons=true&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kednasousa&layout=compact&langs_count=6&theme=radical"/>
 
-Here are some ideas to get you started:
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="SPRING" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
+  <img align="center" alt="JAVA" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+  <img align="center" alt="Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
+</div>
+  
+  <br>
+    
+  <div style="display: inline_block">
+    <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="INTELLIJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />       
+</div>          
+ 
+ <br>
+ 
+ 
+<div> 
+  <h3 align="left">Conecte-se comigo: </h3>
+  <a href="https://instagram.com/kednacleia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/ked#6216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kednacleiasousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kednasousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
