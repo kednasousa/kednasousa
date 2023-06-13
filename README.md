@@ -12,14 +12,8 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
  <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" /> 
 </div>
-  
-  <br>
-    
-  <div style="display: inline_block">
-        
-</div>          
- 
- <br>
+
+ <br />
  
  
 <div> 
