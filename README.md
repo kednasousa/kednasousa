@@ -15,8 +15,7 @@
   <br>
     
   <div style="display: inline_block">
-    <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="INTELLIJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />       
+    <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />     
 </div>          
  
  <br>
