@@ -10,12 +10,13 @@
   <img align="center" alt="Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
+ <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" /> 
 </div>
   
   <br>
     
   <div style="display: inline_block">
-    <img align="center" alt="VS CODE" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />     
+        
 </div>          
  
  <br>
