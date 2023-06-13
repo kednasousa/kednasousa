@@ -7,8 +7,6 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="SPRING" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
-  <img align="center" alt="JAVA" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
