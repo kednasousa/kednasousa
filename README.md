@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uninter.
-- 🎓 Estudando Desenvolvimento front-end.
+- 🎓 Estudando Desenvolvimento Front-end.
 - 🌱 Aprendendo mais sobre HTML, CSS, JS, REACT.
 
 <br/>
