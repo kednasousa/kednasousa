@@ -44,4 +44,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-kednasousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kednasousa/)](https://www.linkedin.com/in/kednasousa/)
 [![Emblema do Gmail](https://img.shields.io/badge/-kednacsousa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kednacsousa@gmail.com)](mailto:kednacsousa@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kednasousa)
+[![GitHub](https://img.shields.io/github/followers/kednasousa?label=follow&style=social)](https://github.com/kednasousa)
