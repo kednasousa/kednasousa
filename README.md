@@ -31,6 +31,7 @@
 <a href="https://github.com/kednasousa" title ="Perfil da Kedna">
   <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=kednasousa&theme=dracula&show_icons=true"/>
 </a>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kednasousa&theme=dracula&hide_border=false) 
 <br/>
 
